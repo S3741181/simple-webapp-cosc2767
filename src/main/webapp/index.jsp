@@ -19,6 +19,7 @@
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
       <p class="lead">I am student and this is just a test</p>
       <p class="lead">Again this is test for Docker Server and Jenkins</p>
+      <p class="lead">AASLKNDAKJSBDJJASKDBNJASKDBJASBDJKAS</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
